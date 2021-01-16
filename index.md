@@ -12,18 +12,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+THis is header 1
 ## Header 2
+and 2
 ### Header 3
-
+and 3
 - Bulleted
+bullet1
+bullet2
 - List
+list1
+list2
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold text** and _Italic text_ and `Code code` text
 
-[Link](url) and ![Image](src)
+[Link](http://www.sukaushal.com) and ![Image](https://www.shutterstock.com/image-photo/new-skills-knowledge-webinar-training-business-1133982488)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
